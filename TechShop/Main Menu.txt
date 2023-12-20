@@ -1,0 +1,43 @@
+Main Menu
+---------
+1. Customer Management
+2. Product Management
+3. Order Management
+4. Inventory Management
+5. Exit
+
+Customer Management
+-------------------
+1. Add New Customer
+2. Update Customer Information
+3. View Customer Details
+4. Calculate Total Orders for Customer
+5. Return to Main Menu
+
+Product Management
+------------------
+1. Add New Product
+2. Update Product Information
+3. View Product Details
+4. Check Product Stock
+5. Return to Main Menu
+
+Order Management
+----------------
+1. Create New Order
+2. Update Order Status
+3. View Order Details
+4. Cancel Order
+5. Return to Main Menu
+
+Inventory Management
+---------------------
+1. Add Product to Inventory
+2. Remove Product from Inventory
+3. Update Stock Quantity
+4. Check Product Availability
+5. List Low Stock Products
+6. List Out of Stock Products
+7. List All Products in Inventory
+8. Get Inventory Value
+9. Return to Main Menu
