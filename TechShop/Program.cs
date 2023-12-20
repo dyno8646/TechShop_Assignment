@@ -33,19 +33,15 @@ public class Program
                 switch (mainMenuChoice)
                 {
                     case MainMenuChoice.CustomerManagement:
-                        // Handle Customer Management menu
                         CustomerManagementMenu();
                         break;
                     case MainMenuChoice.ProductManagement:
-                        // Handle Product Management menu
                         ProductManagementMenu();
                         break;
                     case MainMenuChoice.OrderManagement:
-                        // Handle Order Management menu
                         OrderManagementMenu();
                         break;
                     case MainMenuChoice.InventoryManagement:
-                        // Handle Inventory Management menu
                         InventoryManagementMenu();
                         break;
                     case MainMenuChoice.Exit:
@@ -61,7 +57,7 @@ public class Program
                 Console.WriteLine("Invalid input. Enter a valid choice.");
             }
 
-            Console.WriteLine(); // Add a line break for readability
+            Console.WriteLine();
         }
     }
     private static void CustomerManagementMenu()
@@ -73,19 +69,13 @@ public class Program
 
     private static void ProductManagementMenu()
     {
-        // Implement the Product Management menu options here
-        // You can create an instance of ProductManagement class and call its methods
     }
 
     private static void OrderManagementMenu()
     {
-        // Implement the Order Management menu options here
-        // You can create an instance of OrderManagement class and call its methods
     }
 
     private static void InventoryManagementMenu()
     {
-        // Implement the Inventory Management menu options here
-        // You can create an instance of InventoryManagement class and call its methods
     }
 }
